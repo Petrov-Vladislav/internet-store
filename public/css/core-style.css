@@ -407,6 +407,7 @@ img {
       margin-top: 70px;
       z-index: 100; } }
   .main-content-wrapper .header-area {
+    background-color: #959595;
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
     position: relative;
